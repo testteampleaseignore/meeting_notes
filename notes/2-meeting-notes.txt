@@ -1,0 +1,17 @@
+﻿Features we want this app to have
+* Login (username/pw)
+* Store a syllabus for each user (file_path, syllabus type?)
+* General syllabus template
+   * Dates have to be formatted a certain way
+* Calendar page
+* Percent Grades
+* Office Hours
+* Notifications via email
+
+
+We worked on milestone 1 together. Brian questioned whether the app we decided on had value as stated. We came to a conclusion that our app may not have actual value, but it would have potential value. So, if we don’t think of anything better within the next few weeks, we will still go with it.   
+
+
+
+
+a
